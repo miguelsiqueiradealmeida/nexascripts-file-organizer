@@ -1,6 +1,6 @@
 # NexaScripts File Organizer
 
-![File Organizer Screenshot](screenshot.png)
+![File Organizer Screenshot](screenshot.png.png)
 
 A desktop application built with Python to organize files automatically by category.
 
